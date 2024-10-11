@@ -4,7 +4,6 @@
 
 - Variáveis
 - Operadores
-- Laços de repetição
 - Estruturas de decisões
 - Funções
 - Classes e Objetos
@@ -29,8 +28,6 @@ se monge -> no ataque exibir (usou artes marciais)
 se ninja -> no ataque exibir (usou shuriken)
 
 ## Saída
-
-Ao final deve se exibir uma mensagem:
 
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
