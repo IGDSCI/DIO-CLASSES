@@ -29,6 +29,4 @@ se ninja -> no ataque exibir (usou shuriken)
 
 ## Saída
 
-- "o {tipo} atacou usando {ataque}"
-  ex: mago atacou usando magia
-  guerreiro atacou usando espada
+- O heroi {nome} que é {tipo} atacou usando {tipoAtaque}
